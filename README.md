@@ -1,5 +1,7 @@
 # Hey, I'm Naatin
 
+I am a total newbie developer
+
 ## 📊 Activities
 
 ![Naatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=naatin777&show_icons=true&theme=dark)
