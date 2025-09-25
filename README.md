@@ -1,6 +1,4 @@
-# Hey, I'm Naatin
-
-I am a total newbie developer
+# Hi there 👋
 
 ## 📊 Activities
 
