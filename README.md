@@ -8,7 +8,7 @@
 
 ## 🛠️ Skills
 
-![My Skills](https://skillicons.dev/icons?i=ts,kotlin,flutter,androidstudio)
+![My Skills](https://skillicons.dev/icons?i=ts,kotlin,flutter,vscode,androidstudio)
 
 ## 🏆 Trophies
 
