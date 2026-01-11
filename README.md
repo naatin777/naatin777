@@ -13,7 +13,3 @@
 ## 🛠️ Skills
 
 ![My Skills](https://skillicons.dev/icons?i=ts,kotlin,flutter,vscode,androidstudio)
-
-## 🏆 Trophies
-
-![trophies](https://github-profile-trophy.vercel.app/?username=naatin777&theme=darkhub&column=3)
